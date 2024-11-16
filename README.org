@@ -1,6 +1,7 @@
 #+TITLE: Maxima package manager
 #+DESCRIPTION: The maxima package manager with remote repositories.
-** Why would you try it?
+#+OPTIONS: toc:nil author:nil
+** Why should you try it?
 
 #+begin_verse
 If you're using maxima, sooner or later you will realize that you need different plugins that you need to download
