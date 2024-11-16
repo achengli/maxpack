@@ -1,0 +1,9 @@
+#+TITLE: Maxima package manager
+#+DESCRIPTION: The maxima package manager with remote repositories.
+** Why would you try it?
+
+#+begin_verse
+If you're using maxima, sooner or later you will realize that you need different plugins that you need to download
+and source them to your script. Should be better having a tool that makes that for you and that is the purpose of
+this project
+#+end_verse
